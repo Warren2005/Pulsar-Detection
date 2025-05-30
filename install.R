@@ -1,0 +1,8 @@
+install.packages("MLmetrics")
+install.packages("themis")
+install.packages("yardstick")
+install.packages("repr")
+install.packages("tidyverse")
+install.packages("tidymodels")
+install.packages("RColorBrewer")
+install.packages("GGally")
